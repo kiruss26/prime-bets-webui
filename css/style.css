@@ -287,3 +287,7 @@ footer h3 {
     color: #ffffff;
 }
 
+/* Account Page */
+.account-content {
+    min-height: 54vh;
+}
