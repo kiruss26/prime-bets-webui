@@ -236,3 +236,19 @@ footer {
     margin-top: 19px;
     margin-right: 10px;
 }
+
+/* Login/Sign Up */
+#btn-vksignup, #btn-vklogin {
+    background-color: #4c75a3;
+}
+.panel-info>.panel-heading {
+    color: #ffffff;
+    background-color: #7d0a03;
+    border-color: #7d0a03;
+}
+.panel-info {
+    border-color: #c2b5b5;
+}
+.panel-heading a {
+    color: #ffffff;
+}
