@@ -37,6 +37,20 @@ body {
   body {
     background-image: none;}
 }
+
+
+/* Buttons */
+.btn-primary {
+    color: #fff;
+    background-color: #9e332c;
+    border-color: #5c0600;
+}
+.btn-primary:active, .btn-primary:hover, .btn-primary:focus{
+    background-color: #c7544c;
+    border-color: #5c0600;
+}
+
+}
 /* Top Navigation */
 .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
     color: #FFF;
@@ -56,6 +70,7 @@ body {
     font-weight: 600;
     font-size: 1em;
     font-family: "Roboto";
+    color: #fff;
 }
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
     background-color: #7D0A03;
@@ -205,6 +220,7 @@ footer h3 {
   border-radius: 4px 0 0 4px;
   margin-right: 0;
   display:block;
+  color: #7b0a01;
 }
 .tabs-right>li>a {
   border-radius: 0 4px 4px 0;
@@ -286,8 +302,17 @@ footer h3 {
 .panel-heading a {
     color: #ffffff;
 }
+a.btn.btn-sm.s-btn-social.s-vk.j-my-social-btn {
+    background: #4474a3;
+    border-color: #4474a3;
+    color: #fff;
+    font-size: 14px;
+}
 
 /* Account Page */
 .account-content {
     min-height: 54vh;
+    padding-bottom: 35px;
 }
+
+
