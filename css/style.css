@@ -302,17 +302,24 @@ footer h3 {
 .panel-heading a {
     color: #ffffff;
 }
-a.btn.btn-sm.s-btn-social.s-vk.j-my-social-btn {
-    background: #4474a3;
-    border-color: #4474a3;
-    color: #fff;
-    font-size: 14px;
-}
 
 /* Account Page */
 .account-content {
     min-height: 54vh;
     padding-bottom: 35px;
 }
-
-
+a.btn.btn-sm.s-btn-social.s-vk.j-my-social-btn {
+    background: #4474a3;
+    border-color: #4474a3;
+    color: #fff;
+    font-size: 14px;
+}
+a.btn.btn-sm.s-btn-social.s-fb.not-active.j-my-social-btn {
+    color: #fff;
+    font-size: 14px;
+    background: #3b5998;
+    border-color: #3b5998;
+}
+.users-table .glyphicon {
+    margin-right: 5px;
+}
