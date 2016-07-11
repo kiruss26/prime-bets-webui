@@ -39,6 +39,8 @@ body {
 }
 
 
+/* Headings */
+.head-mg{margin-bottom: 35px;font-family: "Roboto Condensed";}
 /* Buttons */
 .btn-primary {
     color: #fff;
@@ -562,6 +564,8 @@ a.btn.btn-sm.s-btn-social.s-fb.not-active.j-my-social-btn {
     ::-webkit-scrollbar-thumb:window-inactive {
         background: #ddd; 
     }
+	
+	
 	
 	
 	
